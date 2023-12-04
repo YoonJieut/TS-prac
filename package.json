@@ -8,9 +8,6 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "typescript": "^5.3.2"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/YoonJieut/TS-prac.git"
@@ -19,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/YoonJieut/TS-prac/issues"
   },
-  "homepage": "https://github.com/YoonJieut/TS-prac#readme"
+  "homepage": "https://github.com/YoonJieut/TS-prac#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.2"
+  }
 }
